@@ -54,7 +54,7 @@ def load_image(image_path):
     keypoints = extract_keypoints(results)
     return keypoints
 
-model=load_model('model01.keras')
+model=load_model('new_model4.keras')
 
 
 # 1. New detection variables
